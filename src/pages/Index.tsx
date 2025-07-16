@@ -18,7 +18,7 @@ const Index = () => {
         </p>
         
         <Button 
-          variant="hero" 
+          variant="blue" 
           size="lg" 
           className="animate-fade-in-delay"
         >
